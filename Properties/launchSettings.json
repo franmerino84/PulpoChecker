@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PulpoChecker": {
+      "commandName": "Project",
+      "commandLineArgs": "-p spotify-3;hbo-4;filmin-3"
+    }
+  }
+}

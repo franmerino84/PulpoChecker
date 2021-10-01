@@ -1,0 +1,1406 @@
+{
+    "data": {
+        "groups": [{
+                "id": 13307,
+                "owner_id": 28392,
+                "mask": "GETYU7FW9JE",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 3,
+                "slot_num_available": 3,
+                "slot_price": "3.0000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "4.3200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 28392,
+                    "first_name": "Seby",
+                    "image_avatar": "https:\/\/lh3.googleusercontent.com\/a-\/AOh14GiVSf3FG48ELU4fgFZCTPjzNaoZzmbVB8UCWxPa=s96-c",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 14051,
+                "owner_id": 8918,
+                "mask": "GNCCUWIV83T",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 3,
+                "slot_price": "3.0000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "4.3200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 8918,
+                    "first_name": "Jm",
+                    "image_avatar": "https:\/\/lh4.googleusercontent.com\/-Et_DNSafRS4\/AAAAAAAAAAI\/AAAAAAAAAAA\/AMZuuclwNyfbgIOa4pr-HRpK7SouhZSGsw\/s96-c\/photo.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 12720,
+                "owner_id": 19107,
+                "mask": "GFA6FWBGCY8",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 4,
+                "slot_num_available": 3,
+                "slot_price": "3.1800",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "4.5000",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 19107,
+                    "first_name": "Jhonny",
+                    "image_avatar": "https:\/\/graph.facebook.com\/10158794117433052\/picture",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 10978,
+                "owner_id": 28387,
+                "mask": "G4W9BQ1MOCL",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 3,
+                "slot_price": "3.2000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "4.5200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 28387,
+                    "first_name": "Aitor",
+                    "image_avatar": "https:\/\/lh3.googleusercontent.com\/a\/AATXAJzpPx_JFxHzn4UEH4ClOdIjWF7n-NF_gA3X1H0p=s96-c",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 12736,
+                "owner_id": 15627,
+                "mask": "GX0ONUMMDKY",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 3,
+                "slot_price": "3.4500",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "4.7700",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 15627,
+                    "first_name": "Neil",
+                    "image_avatar": "https:\/\/lh3.googleusercontent.com\/a-\/AOh14GiwmU5VJIOvDPwEN1RmSvS7egHco-EIEa9Y7ZEnLg=s96-c",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 12684,
+                "owner_id": 15627,
+                "mask": "G5R4FQK5PNL",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 3,
+                "slot_price": "3.5000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "4.8200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 15627,
+                    "first_name": "Neil",
+                    "image_avatar": "https:\/\/lh3.googleusercontent.com\/a-\/AOh14GiwmU5VJIOvDPwEN1RmSvS7egHco-EIEa9Y7ZEnLg=s96-c",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 5049,
+                "owner_id": 8523,
+                "mask": "GDP8A9SZ9J5",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 2,
+                "slot_price": "2.6700",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "3.9900",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 8523,
+                    "first_name": "Juan",
+                    "image_avatar": "https:\/\/lh4.googleusercontent.com\/-l_9dj5J4Pt8\/AAAAAAAAAAI\/AAAAAAAAAAA\/AMZuucnQOWg8gV_Plz2Btnec3OR8qMvcQw\/s96-c\/photo.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 12518,
+                "owner_id": 18242,
+                "mask": "GHWVBUETEPH",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 2,
+                "slot_price": "2.9000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "4.2200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 18242,
+                    "first_name": "Fernando",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/mvp\/Placeholder5.png",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 13046,
+                "owner_id": 26818,
+                "mask": "G33ZAMZ2TBN",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 4,
+                "slot_num_available": 2,
+                "slot_price": "2.9900",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "4.3100",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 26818,
+                    "first_name": "Juan",
+                    "image_avatar": "https:\/\/lh3.googleusercontent.com\/a\/AATXAJyQdbIUo37N7kT4SsPJbltqxHU3C0JqqQlKcSYk=s96-c",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 11230,
+                "owner_id": 28567,
+                "mask": "GRRHQOUGUPE",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 4,
+                "slot_num_available": 2,
+                "slot_price": "3.0000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "4.3200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 28567,
+                    "first_name": "Victor",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/image_avatar\/7bURkGOHqhhcRYpISQj2TVyvy10U2p6zOLyrJ2AV.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 11856,
+                "owner_id": 27898,
+                "mask": "GZBLT92T1WG",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 2,
+                "slot_price": "3.0000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "4.3200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 27898,
+                    "first_name": "David",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/image_avatar\/2nhLO1WA4bteoXqb3nRmQZfOJylpjbh5qd75JlhR.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 12453,
+                "owner_id": 27059,
+                "mask": "G5MZMNKY5VS",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 2,
+                "slot_price": "3.0000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "4.3200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 27059,
+                    "first_name": "ENRIQUE",
+                    "image_avatar": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/f_auto\/v1627966290\/Placeholders\/Placeholder5_khkdfy.png",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 12530,
+                "owner_id": 12586,
+                "mask": "GFSMRFIMEGA",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 2,
+                "slot_price": "3.0000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "4.3200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 12586,
+                    "first_name": "Marta",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/mvp\/Placeholder2.png",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 10089,
+                "owner_id": 27430,
+                "mask": "GMDOWK05EJD",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 2,
+                "slot_price": "3.2000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "4.5200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 27430,
+                    "first_name": "Fatima",
+                    "image_avatar": "https:\/\/lh3.googleusercontent.com\/a-\/AOh14Gi2tuw323wUNUdo0G8Sa3c8Jh_aOJ-MypaW4wU8=s96-c",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 226,
+                "owner_id": 4571,
+                "mask": "4pPtsrvjh8QQ09pmMIb2",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 4,
+                "slot_num_available": 1,
+                "slot_price": "2.6700",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "3.9900",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 4571,
+                    "first_name": "Cristian",
+                    "image_avatar": "https:\/\/lh3.googleusercontent.com\/a-\/AOh14GjIfeW52XVXlLe4fOtslxQtiPj_i8EKYaro-N5txTA=s96-c",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 2283,
+                "owner_id": 7517,
+                "mask": "sPnsyUJWUqxUSUUIbF12",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 3,
+                "slot_num_available": 1,
+                "slot_price": "2.6700",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "3.9900",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 7517,
+                    "first_name": "Marcos",
+                    "image_avatar": "https:\/\/lh3.googleusercontent.com\/a\/AATXAJxbcraVm7pX_iSwF4oYP5rW3iLL4ig5UWNNaxqY=s96-c",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 2002,
+                "owner_id": 5959,
+                "mask": "lgtIG9vM7zlYrkNzOMo1",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 1,
+                "slot_price": "2.6700",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "3.9900",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 5959,
+                    "first_name": "Jose",
+                    "image_avatar": "https:\/\/lh3.googleusercontent.com\/a\/AATXAJztdDu7wOFK8vVZFkXzZmZZ6MFXPQoWP0QsbQVC=s96-c",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 1258,
+                "owner_id": 3652,
+                "mask": "SzTeal4D2k7GsmKVP48X",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 1,
+                "slot_price": "2.6700",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "3.9900",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 3652,
+                    "first_name": "Yasmin",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/mvp\/4ad6f252-8986-43f3-97d5-c5f1a1b80ac4.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 691,
+                "owner_id": 3652,
+                "mask": "FWw7TlurVlDyoPXr62yf",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 1,
+                "slot_price": "2.6700",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "3.9900",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 3652,
+                    "first_name": "Yasmin",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/mvp\/4ad6f252-8986-43f3-97d5-c5f1a1b80ac4.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 1518,
+                "owner_id": 15121,
+                "mask": "ZNGJckd9VS6DLoBBnH2Y",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 1,
+                "slot_price": "2.6700",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "3.9900",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 15121,
+                    "first_name": "Javi",
+                    "image_avatar": "https:\/\/lh3.googleusercontent.com\/a\/AATXAJxyIFKSwKBJ29LrGY5nNOt8hg34E7L2WqZa97dU=s96-c",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 4083,
+                "owner_id": 15121,
+                "mask": "GYOEVOXSHWD",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 1,
+                "slot_price": "2.6700",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "3.9900",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 15121,
+                    "first_name": "Javi",
+                    "image_avatar": "https:\/\/lh3.googleusercontent.com\/a\/AATXAJxyIFKSwKBJ29LrGY5nNOt8hg34E7L2WqZa97dU=s96-c",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 5863,
+                "owner_id": 8523,
+                "mask": "GYT4ZYLUTJN",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 1,
+                "slot_price": "2.6700",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "3.9900",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 8523,
+                    "first_name": "Juan",
+                    "image_avatar": "https:\/\/lh4.googleusercontent.com\/-l_9dj5J4Pt8\/AAAAAAAAAAI\/AAAAAAAAAAA\/AMZuucnQOWg8gV_Plz2Btnec3OR8qMvcQw\/s96-c\/photo.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 5867,
+                "owner_id": 5285,
+                "mask": "G695LW6RYYF",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 1,
+                "slot_price": "2.6700",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "3.9900",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 5285,
+                    "first_name": "Manuel",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/mvp\/31b5ab3f-e11e-435f-b6ae-c9cca64f6944.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 6041,
+                "owner_id": 15121,
+                "mask": "GE0SVOAL5HB",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 4,
+                "slot_num_available": 1,
+                "slot_price": "2.6700",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "3.9900",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 15121,
+                    "first_name": "Javi",
+                    "image_avatar": "https:\/\/lh3.googleusercontent.com\/a\/AATXAJxyIFKSwKBJ29LrGY5nNOt8hg34E7L2WqZa97dU=s96-c",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 6323,
+                "owner_id": 8523,
+                "mask": "GTC76NERPC3",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 1,
+                "slot_price": "2.6700",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "3.9900",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 8523,
+                    "first_name": "Juan",
+                    "image_avatar": "https:\/\/lh4.googleusercontent.com\/-l_9dj5J4Pt8\/AAAAAAAAAAI\/AAAAAAAAAAA\/AMZuucnQOWg8gV_Plz2Btnec3OR8qMvcQw\/s96-c\/photo.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 6371,
+                "owner_id": 2909,
+                "mask": "GXCKO1FSJTP",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 4,
+                "slot_num_available": 1,
+                "slot_price": "2.6700",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "3.9900",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 2909,
+                    "first_name": "Tery",
+                    "image_avatar": "https:\/\/lh4.googleusercontent.com\/-GmEVYrZ8h6Y\/AAAAAAAAAAI\/AAAAAAAAAAA\/AMZuucljYVxzuHlVm8RFlkrP1hG_yrNG4g\/s96-c\/photo.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 6600,
+                "owner_id": 15121,
+                "mask": "GEJ9XJFAMGF",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 4,
+                "slot_num_available": 1,
+                "slot_price": "2.6700",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "3.9900",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 15121,
+                    "first_name": "Javi",
+                    "image_avatar": "https:\/\/lh3.googleusercontent.com\/a\/AATXAJxyIFKSwKBJ29LrGY5nNOt8hg34E7L2WqZa97dU=s96-c",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 9970,
+                "owner_id": 26604,
+                "mask": "G4AZFQTRG8P",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 1,
+                "slot_price": "2.6700",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "3.9900",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 26604,
+                    "first_name": "OFERTA",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/image_avatar\/MGWB6GBSXvgasXTgQTTt97I6Sn60LNBkZ29zuDYI.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 12718,
+                "owner_id": 30184,
+                "mask": "GKQYHC1A4ZV",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 3,
+                "slot_num_available": 1,
+                "slot_price": "2.6700",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "3.9900",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 30184,
+                    "first_name": "Noelia",
+                    "image_avatar": "https:\/\/lh3.googleusercontent.com\/a-\/AOh14Gj_GSMGSjKGNJWbjcZ9cIjSURoJp6BUfKs3TRxH4Lk=s96-c",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 13771,
+                "owner_id": 31180,
+                "mask": "G5DDLNQKGMV",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 1,
+                "slot_price": "2.6700",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "3.9900",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 31180,
+                    "first_name": "cuenta",
+                    "image_avatar": "https:\/\/lh3.googleusercontent.com\/a\/AATXAJwr3y9_NcJ_uppYmOlVozJ3FZYbXM_vfWs-4-_A=s96-c",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 13778,
+                "owner_id": 31173,
+                "mask": "GWRUJJTFUFW",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 1,
+                "slot_price": "2.6700",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "3.9900",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 31173,
+                    "first_name": "Manuel",
+                    "image_avatar": "https:\/\/lh3.googleusercontent.com\/a\/AATXAJxppnpyUknoXGMoTxcoqBpnsVUxIBFO9LcE5DP8=s96-c",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 13800,
+                "owner_id": 28841,
+                "mask": "GCM5XJRX9OP",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 3,
+                "slot_num_available": 1,
+                "slot_price": "2.6700",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "3.9900",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 28841,
+                    "first_name": "JOB",
+                    "image_avatar": "https:\/\/lh3.googleusercontent.com\/a-\/AOh14GjwqWHCNG9qllWzh1uwPdkJA4U_QFhFrXEkEz6TUg=s96-c",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 14183,
+                "owner_id": 4210,
+                "mask": "GPVYVMGDY65",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 4,
+                "slot_num_available": 1,
+                "slot_price": "2.6700",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "3.9900",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 4210,
+                    "first_name": "Helena",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/image_avatar\/9D8G3pkeAQU06qXx9CvuBpJTKVCpp6ZeHaMj17qP.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 10777,
+                "owner_id": 28207,
+                "mask": "GFHPZOHBHGD",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 3,
+                "slot_num_available": 1,
+                "slot_price": "2.7000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "4.0200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 28207,
+                    "first_name": "Roger",
+                    "image_avatar": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/f_auto\/v1627966290\/Placeholders\/Placeholder2_daq1fh.png",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 7923,
+                "owner_id": 20058,
+                "mask": "GA32ZZNGIJJ",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 2,
+                "slot_num_available": 1,
+                "slot_price": "3.5000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "4.8200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 20058,
+                    "first_name": "Dani",
+                    "image_avatar": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/f_auto\/v1627966290\/Placeholders\/Placeholder3_bzoi4f.png",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 6916,
+                "owner_id": 7145,
+                "mask": "GZZXGPSCY9X",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 1,
+                "slot_price": "4.0000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "5.3200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 7145,
+                    "first_name": "N\u00e1taly",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/mvp\/87ad1f84-95b2-44e3-91c3-5af139718409.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 8253,
+                "owner_id": 24769,
+                "mask": "G7IT2PHVD2Z",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 0,
+                "slot_price": "1.5000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "2.8200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 24769,
+                    "first_name": "Daniel disney netflix spotify",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/image_avatar\/SVpFJRcxGCkop1CQEitNvyGTyb39SC9xE4HTB1u8.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 8300,
+                "owner_id": 24769,
+                "mask": "GZYBE801ZOT",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 0,
+                "slot_price": "1.5000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "2.8200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 24769,
+                    "first_name": "Daniel disney netflix spotify",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/image_avatar\/SVpFJRcxGCkop1CQEitNvyGTyb39SC9xE4HTB1u8.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 8305,
+                "owner_id": 24769,
+                "mask": "GBGH2HY6BAG",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 0,
+                "slot_price": "1.5000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "2.8200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 24769,
+                    "first_name": "Daniel disney netflix spotify",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/image_avatar\/SVpFJRcxGCkop1CQEitNvyGTyb39SC9xE4HTB1u8.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 8404,
+                "owner_id": 24769,
+                "mask": "GNEJ85YT6EA",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 0,
+                "slot_price": "1.5000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "2.8200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 24769,
+                    "first_name": "Daniel disney netflix spotify",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/image_avatar\/SVpFJRcxGCkop1CQEitNvyGTyb39SC9xE4HTB1u8.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 8531,
+                "owner_id": 24769,
+                "mask": "GF9KKPBICNN",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 0,
+                "slot_price": "1.5000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "2.8200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 24769,
+                    "first_name": "Daniel disney netflix spotify",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/image_avatar\/SVpFJRcxGCkop1CQEitNvyGTyb39SC9xE4HTB1u8.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 8738,
+                "owner_id": 24769,
+                "mask": "GSIJCWRISPH",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 0,
+                "slot_price": "1.5000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "2.8200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 24769,
+                    "first_name": "Daniel disney netflix spotify",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/image_avatar\/SVpFJRcxGCkop1CQEitNvyGTyb39SC9xE4HTB1u8.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 8798,
+                "owner_id": 24769,
+                "mask": "GMODDYKGHG1",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 0,
+                "slot_price": "1.5000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "2.8200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 24769,
+                    "first_name": "Daniel disney netflix spotify",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/image_avatar\/SVpFJRcxGCkop1CQEitNvyGTyb39SC9xE4HTB1u8.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 8812,
+                "owner_id": 24769,
+                "mask": "GPSTUNZYTOD",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 0,
+                "slot_price": "1.5000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "2.8200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 24769,
+                    "first_name": "Daniel disney netflix spotify",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/image_avatar\/SVpFJRcxGCkop1CQEitNvyGTyb39SC9xE4HTB1u8.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 8826,
+                "owner_id": 24769,
+                "mask": "GYWHGEELNKC",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 0,
+                "slot_price": "1.5000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "2.8200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 24769,
+                    "first_name": "Daniel disney netflix spotify",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/image_avatar\/SVpFJRcxGCkop1CQEitNvyGTyb39SC9xE4HTB1u8.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 8873,
+                "owner_id": 24769,
+                "mask": "GK4GYIAECTL",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 0,
+                "slot_price": "1.5000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "2.8200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 24769,
+                    "first_name": "Daniel disney netflix spotify",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/image_avatar\/SVpFJRcxGCkop1CQEitNvyGTyb39SC9xE4HTB1u8.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 8943,
+                "owner_id": 26181,
+                "mask": "GGIJQBMQFYK",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 0,
+                "slot_price": "1.5000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "2.8200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 26181,
+                    "first_name": "Daniel spotify y netflix",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/image_avatar\/rLolhnVYeSsF4SwdSFFFvLeyKVWOKvb0YciCR90X.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 9072,
+                "owner_id": 26181,
+                "mask": "GQLXJEFYZQU",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 0,
+                "slot_price": "1.5000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "2.8200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 26181,
+                    "first_name": "Daniel spotify y netflix",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/image_avatar\/rLolhnVYeSsF4SwdSFFFvLeyKVWOKvb0YciCR90X.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 9215,
+                "owner_id": 26517,
+                "mask": "GNOSV4BVNQO",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 0,
+                "slot_price": "1.5000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "2.8200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 26517,
+                    "first_name": "OFERTA\u2705",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/image_avatar\/aa9oHzTGiR4llZ9C8pZ38VEtMoIW21uvrgzz5sH5.jpg",
+                    "is_phone_verified": false
+                }
+            }, {
+                "id": 12006,
+                "owner_id": 29176,
+                "mask": "GDZEHUX5USL",
+                "status": "active",
+                "public": true,
+                "slot_num_total": 5,
+                "slot_num_available": 0,
+                "slot_price": "1.5000",
+                "slot_fee": "1.3200",
+                "allow_enrollments": true,
+                "slot_to_pay": "2.8200",
+                "platform": {
+                    "id": 13,
+                    "name": "Spotify Premium",
+                    "vertical": "music",
+                    "slot_price_original": "15.9900",
+                    "info_color": "#3edf85",
+                    "info_logo_colored": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192116\/Logos\/Color%20Logo\/spotify_color_uhg51f.png",
+                    "info_logo_transparent": "https:\/\/res.cloudinary.com\/pulpo-club\/image\/upload\/c_scale,f_auto,w_300\/v1624192113\/Logos\/White%20Logo\/spotify_dbxwyy.png",
+                    "stats_active_group_members": 2402
+                },
+                "owner": {
+                    "id": 29176,
+                    "first_name": "OFERTA",
+                    "image_avatar": "https:\/\/s3.eu-west-1.amazonaws.com\/prod-platform-public.pulpo.me\/image_avatar\/ZeoYLzgpldlwYn85rsaGvPrzSiaPA8xkUaWmmRXI.jpg",
+                    "is_phone_verified": false
+                }
+            }
+        ]
+    }
+}
