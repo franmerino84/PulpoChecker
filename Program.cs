@@ -34,30 +34,23 @@ namespace PulpoChecker
             }
         }
 
-        private static IEnumerable<MatchedGroup> GetMatchedGroups(IEnumerable<PulpoGroup> groups, Dictionary<int, float> filters)
-        {
-            return groups
+        private static IEnumerable<MatchedGroup> GetMatchedGroups(IEnumerable<PulpoGroup> groups, Dictionary<int, float> filters) => 
+            groups
                 .Where(group => filters.Any(filter => group.Platform.Id == filter.Key && group.SlotToPayFloat <= filter.Value && group.SlotNumAvailable > 0))
                 .Select(x => new MatchedGroup() { Platform = x.Platform.Id, Price = x.SlotToPayFloat });
-        }
 
-        private static PulpoCheckerArguments GetArguments(string[] args)
-        {
-            return ((Parsed<PulpoCheckerArguments>)Parser.Default.ParseArguments<PulpoCheckerArguments>(args)).Value;
-        }
+        private static PulpoCheckerArguments GetArguments(string[] args) => 
+            ((Parsed<PulpoCheckerArguments>)Parser.Default.ParseArguments<PulpoCheckerArguments>(args)).Value;
 
-        private static Dictionary<int, float> GetFilters(PulpoCheckerArguments arguments)
-        {
-
-            return arguments.Platforms.Split(";")
+        private static Dictionary<int, float> GetFilters(PulpoCheckerArguments arguments) => 
+            arguments.Platforms.Split(";")
                 .Select(x =>
-           {
-               var parts = x.Split('-');
-               return new KeyValuePair<int, float>(
-                   (int)Enum.Parse(typeof(Platform), parts[0], true),
-                   float.Parse(parts[1], CultureInfo.InvariantCulture));
-           }).ToDictionary(x => x.Key, x => x.Value);
-        }
+                {
+                    var parts = x.Split('-');
+                    return new KeyValuePair<int, float>(
+                         (int)Enum.Parse(typeof(Platform), parts[0], true),
+                         float.Parse(parts[1], CultureInfo.InvariantCulture));
+                }).ToDictionary(x => x.Key, x => x.Value);
 
         private static async Task<IEnumerable<PulpoGroup>> GetGroups(IEnumerable<int> platforms)
         {

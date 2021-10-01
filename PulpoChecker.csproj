@@ -11,8 +11,8 @@
   </ItemGroup>  
 
   <ItemGroup>
-    <None Update="pulpo.json">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    <None Update="pulpoSample.json">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </None>
   </ItemGroup>
 
